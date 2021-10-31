@@ -1,0 +1,9 @@
+@import '~bootstrap/scss/bootstrap.scss';
+a{
+    text-decoration: none;
+    color: rgb(63, 63, 63);
+
+    &:hover, &:active{
+        color: rgb(63, 63, 63);
+    }
+}
